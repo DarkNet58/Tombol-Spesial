@@ -32,4 +32,6 @@ sleep(1)
 print(b+'\n[!] Setting up..')
 sleep(2)
 os.system('termux-reload-settings')
+print(a+'[!] Successfully !! ^^'+c+'\n\nhubungi https://t.me/DarkNet untuk requests\natau pertanyaan, atau hubungi https://t.me/CRABS_ID\nThanks :*\n\n')
+
 
